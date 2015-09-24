@@ -1,2 +1,2 @@
-# learningpython
-My first projects with python.
+# sudoku
+WIP. Intended to be a relativly simple sudoku solver
